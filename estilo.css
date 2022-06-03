@@ -45,7 +45,15 @@ h1#escolher-modelo{
 }
 
 
-.modelo:hover {
-	background-color: #06bfff;	
+.modelo:hover, .link-tela:hover {
+	background-color: #06bfff;
+	color: #fff;	
+}
+
+
+.link-tela{
+	text-decoration: none;
+	color: #fff; /*c7cccf;*/
+	line-height: 35px;
 }
 
