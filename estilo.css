@@ -9,6 +9,7 @@ h1#escolher-modelo{
 	color: #ffda02;
 	text-align: center;
 	width: 100%;
+	position: fixed;
 }
 
 
@@ -57,3 +58,9 @@ h1#escolher-modelo{
 	line-height: 35px;
 }
 
+
+#bot-voltar{
+	position: relative;
+	display: flex;
+	margin-left: 2%;
+}
